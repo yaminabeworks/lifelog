@@ -1,2 +1,3 @@
 # lifelog
-lifelog
+
+issueにわけのわからないことをたくさん書いてある。
